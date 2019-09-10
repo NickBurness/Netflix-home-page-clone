@@ -1,2 +1,2 @@
 # Netflix-home-page-clone
-<p align: center>a clone of the home page for Netflix using HTML5/CSS3 and JavaScript</p>
+a clone of the home page for Netflix using HTML5/CSS3 and JavaScript
