@@ -1,2 +1,3 @@
-# Netflix-home-page-clone
-a clone of the home page for Netflix using HTML5/CSS3 and JavaScript
+# :tv: Netflix home page clone :iphone:
+a static yet partially functional clone of the home page for Netflix.com using HTML5, CSS3 and JavaScript
+
